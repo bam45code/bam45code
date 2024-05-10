@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bam45code
 - 👀 I’m interested in programing, elden ring,minecraft
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on a cynes UI
 - 😄 Pronouns: He,him,his
 
 <!---
